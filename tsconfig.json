@@ -29,7 +29,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, "components/Container/Container.js", "components/Container/Container.js"  ],
   "exclude": [
     "node_modules"
   ]
